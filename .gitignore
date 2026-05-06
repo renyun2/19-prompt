@@ -1,0 +1,9 @@
+.env.example
+dist/
+node_modules/
+*.js
+!jest.config.js
+!webpack.config.js
+.DS_Store
+.vscode/settings.json
+data/
